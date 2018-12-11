@@ -8,6 +8,7 @@
 [![Swift Package Manager](https://img.shields.io/badge/SPM-compatible-4BC51D.svg?style=flat)](https://swift.org/package-manager/)
 [![Swift 4](https://img.shields.io/badge/swift-4.1-orange.svg?style=flat)](http://swift.org)
 [![Vapor 3](https://img.shields.io/badge/vapor-3.0-blue.svg?style=flat)](https://vapor.codes)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fios3%2FApiCore.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fios3%2FApiCore?ref=badge_shield)
 
 
 Base for API's that require user & team management including forgotten passwords, etc. This library should contain all the basic endpoints neccessary to make your own SaaS platform similar to a github's own user management.
@@ -173,3 +174,6 @@ List of all used software is listed in the repository. All components are availa
 
 See the LICENSE file for more info.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fios3%2FApiCore.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fios3%2FApiCore?ref=badge_large)
